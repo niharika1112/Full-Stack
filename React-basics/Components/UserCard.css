@@ -1,0 +1,8 @@
+.user-container{
+    background-color: rgb(229, 181, 118);
+    padding: 5px;
+}
+#user-img{
+  height:50% ;
+  border-radius: 50%;
+}
